@@ -44,6 +44,9 @@ read 0.5294117647058822 0 1.0 0.03333333333333334
 
 ex3: 
 CodeTokenProvider.py:
+query = "How to create database?"
+
+output:
 all: ['creat', 'databas']
 0.42394365287097385
 rankedAPIs:  ['execute', 'connect', 'cursor', 'create_engine', 'commit', 'close', 'format', 'sqlite3', 'create_all', 'get', 'open']
